@@ -1,6 +1,7 @@
 ---
 title: Welcome to the Coffee Blog
 date: 2021-02-06T05:55:13.768Z
+contentKey: blog
 ---
 ![coffee cup](/img/el6akruuyaqwncs.jpg "a delicious cup of coffee")
 
