@@ -1,5 +1,5 @@
 ---
 contentKey: indexPage
-tagline: BEST COFFE EVER!
+tagline: BEST COFFEE EVER!
 heroImage: /img/derek-sutton-eo18zjkurwu-unsplash.jpg
 ---
